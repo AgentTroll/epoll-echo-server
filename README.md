@@ -4,10 +4,10 @@ An example of an echo server using epoll to respond to clients.
 
 # Building
 
-You may get builds from [here](https://github.com/AgentTroll/epoll-echo-server/releases/tag/1.0). Alternatively, you may build it yourself:
+You may get builds from [here](https://github.com/caojohnny/epoll-echo-server/releases/tag/1.0). Alternatively, you may build it yourself:
 
 ``` shell
-git clone https://github.com/AgentTroll/epoll-echo-server.git
+git clone https://github.com/caojohnny/epoll-echo-server.git
 cd epoll-echo-server
 cmake .
 make
